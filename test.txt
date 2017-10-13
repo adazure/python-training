@@ -1,0 +1,10 @@
+<html>
+<title>New Template 3</title>
+<body>
+<b>Adınız</b> : Kerem<br/>
+<b>Soyadınız</b> : Yavuz<br/>
+<b>Email</b> : kerem@adazure.com<br/>
+<b>Şifre</b> : 123456<br/>
+
+</body>
+</html>
